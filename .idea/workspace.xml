@@ -27,6 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9abebbec-8526-42cb-ac65-0d0da59963db" name="Default Changelist" comment="Text Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -89,7 +90,7 @@
       <workItem from="1598883111325" duration="8104000" />
       <workItem from="1598897129336" duration="12000" />
       <workItem from="1598897186640" duration="13000" />
-      <workItem from="1598897212595" duration="391000" />
+      <workItem from="1598897212595" duration="1321000" />
     </task>
     <task id="LOCAL-00001" summary="Added Initial Files&#10;+ HTML backbone&#10;+ CSS file">
       <created>1598622035628</created>
