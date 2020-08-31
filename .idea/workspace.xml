@@ -27,13 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9abebbec-8526-42cb-ac65-0d0da59963db" name="Default Changelist" comment="+ HTML Structure&#10;+ CCS&#10;+ Images">
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/code.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/code.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/design.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/design.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/performance.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile-picture.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/profile-picture.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rocket.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/rocket.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +86,8 @@
       <workItem from="1598881895682" duration="992000" />
       <workItem from="1598882925781" duration="171000" />
       <workItem from="1598883111325" duration="8104000" />
+      <workItem from="1598897129336" duration="12000" />
+      <workItem from="1598897186640" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Added Initial Files&#10;+ HTML backbone&#10;+ CSS file">
       <created>1598622035628</created>
@@ -154,10 +150,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1598628194711" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1598882886036">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1598897140700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1598882886036" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1598897140700" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1598882630388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
