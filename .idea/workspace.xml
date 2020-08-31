@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9abebbec-8526-42cb-ac65-0d0da59963db" name="Default Changelist" comment="+ HTML Structure&#10;+ CCS&#10;+ Images">
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/code.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/code.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/design.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/design.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/performance.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profile-picture.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/profile-picture.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rocket.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/rocket.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gjITrVVZQuqJ3Jf0pWVMsv0we3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\razva.DESKTOP-U3HOK8Q\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\razva.DESKTOP-U3HOK8Q\Documents\MEGAsync SSD\Coding Projects\Angela Yu Course Projects\Personal-Website\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9abebbec-8526-42cb-ac65-0d0da59963db" name="Default Changelist" comment="" />
+      <created>1598621585275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598621585275</updated>
+      <workItem from="1598621586426" duration="7380000" />
+      <workItem from="1598778913177" duration="16900000" />
+      <workItem from="1598881895682" duration="992000" />
+      <workItem from="1598882925781" duration="171000" />
+      <workItem from="1598883111325" duration="8104000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Initial Files&#10;+ HTML backbone&#10;+ CSS file">
+      <created>1598622035628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598622035628</updated>
+    </task>
+    <task id="LOCAL-00002" summary="+ HTML Structure&#10;+ CCS&#10;+ Images">
+      <created>1598811358141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598811358142</updated>
+    </task>
+    <task id="LOCAL-00003" summary="+ HTML Structure&#10;+ CCS&#10;+ Images">
+      <created>1598883062847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598883062847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Initial Files&#10;+ HTML backbone&#10;+ CSS file" />
+    <MESSAGE value="+ HTML Structure&#10;+ CCS&#10;+ Images" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ HTML Structure&#10;+ CCS&#10;+ Images" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1598628194711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1598628194711" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1598882886036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1598882886036" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1598882630388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1598882630388" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1598882192871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1598882192871" />
+  </component>
+</project>

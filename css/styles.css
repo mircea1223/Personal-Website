@@ -1,0 +1,83 @@
+/*************** TAG SELECTORS ***************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  font-size: 5.625rem;   /* 16px = 100% = 1em  || rem is the recommended unit to use*/
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+/*************** CLASS SELECTORS ***************/
+
+/********** CONTAINERS **********/
+.top-container {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+/********** IMAGES **********/
+.top-cloud {
+  position: absolute;
+  right: 18.75rem;
+  top: 3.125rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.background-image {
+  width: 400px;
+  height: 400px;
+}
+
+.profile-picture {
+  width: 200px;
+  height: 200px;
+}
+
+.skill-images {
+  width: 200px;
+  height: 200px;
+}
+
+/********** LINKS **********/
+.company-link {
+  color: #283a5a;
+}
+
+.company-link:hover {
+  color: #182337;
+}
