@@ -26,9 +26,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9abebbec-8526-42cb-ac65-0d0da59963db" name="Default Changelist" comment="Text Update">
+    <list default="true" id="9abebbec-8526-42cb-ac65-0d0da59963db" name="Default Changelist" comment="Image Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cloud.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cloud.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +92,8 @@
       <workItem from="1598883111325" duration="8104000" />
       <workItem from="1598897129336" duration="12000" />
       <workItem from="1598897186640" duration="13000" />
-      <workItem from="1598897212595" duration="1321000" />
+      <workItem from="1598897212595" duration="1712000" />
+      <workItem from="1599140172125" duration="11022000" />
     </task>
     <task id="LOCAL-00001" summary="Added Initial Files&#10;+ HTML backbone&#10;+ CSS file">
       <created>1598622035628</created>
@@ -120,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598897431457</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Image Update">
+      <created>1598899463764</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598899463764</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +164,8 @@
     <MESSAGE value="Added Initial Files&#10;+ HTML backbone&#10;+ CSS file" />
     <MESSAGE value="+ HTML Structure&#10;+ CCS&#10;+ Images" />
     <MESSAGE value="Text Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Text Update" />
+    <MESSAGE value="Image Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Image Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1598628194711">
